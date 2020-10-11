@@ -21,3 +21,5 @@
 [Hardware Reference](https://www.espruino.com/Bangle.js)
 
 [Bangle.js Apps](https://banglejs.com/apps/)
+
+[Bangle.js Apps GitHub](https://github.com/espruino/BangleApps)
