@@ -19,3 +19,5 @@
 [API Reference](https://www.espruino.com/Reference#software)
 
 [Hardware Reference](https://www.espruino.com/Bangle.js)
+
+[Bangle.js Apps](https://banglejs.com/apps/)
