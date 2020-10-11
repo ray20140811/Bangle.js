@@ -2,13 +2,10 @@ function showTime() {
   g.clear();
   g.setFont("Vector",25);
   g.drawString("Ray's Clock", 25, 50);
-  //g.setFont("Vector",15);
   
   var display = '';
   
   var d = new Date();
-  //var current = d.toString();
-  //var iGMT = current.indexOf("GMT");
   
   var year = d.getFullYear();
   var month = d.getMonth() + 1;
@@ -23,9 +20,6 @@ function showTime() {
   
   display = h + ":" + m + ":" + s;
   g.drawString(display,50,200);
-  
-  
-  //g.drawString(current.substring(0,iGMT),0,100);
   
 }
 
